@@ -1,0 +1,15 @@
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/bin/Debug/net7.0/NetworkTesting
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/bin/Debug/net7.0/NetworkTesting.deps.json
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/bin/Debug/net7.0/NetworkTesting.runtimeconfig.json
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/bin/Debug/net7.0/NetworkTesting.dll
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/bin/Debug/net7.0/NetworkTesting.pdb
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/NetworkTesting.csproj.AssemblyReference.cache
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/NetworkTesting.GeneratedMSBuildEditorConfig.editorconfig
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/NetworkTesting.AssemblyInfoInputs.cache
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/NetworkTesting.AssemblyInfo.cs
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/NetworkTesting.csproj.CoreCompileInputs.cache
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/NetworkTesting.dll
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/refint/NetworkTesting.dll
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/NetworkTesting.pdb
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/NetworkTesting.genruntimeconfig.cache
+/home/eagle/Desktop/AdvAlg24/NetworkTesting/obj/Debug/net7.0/ref/NetworkTesting.dll

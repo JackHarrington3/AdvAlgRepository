@@ -1,0 +1,11 @@
+<form action="/hangman/game" method="POST">
+{% csrf_token %}
+
+<input type="hidden" id="letter" name="letter">
+
+<br><br>
+<H1>Press Start to Play</H1>
+<br><br>
+<input type="submit" value="Start">
+
+</form>

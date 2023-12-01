@@ -1,0 +1,15 @@
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/bin/Debug/net7.0/simpleTCPIP
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/bin/Debug/net7.0/simpleTCPIP.deps.json
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/bin/Debug/net7.0/simpleTCPIP.runtimeconfig.json
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/bin/Debug/net7.0/simpleTCPIP.dll
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/bin/Debug/net7.0/simpleTCPIP.pdb
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/simpleTCPIP.csproj.AssemblyReference.cache
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/simpleTCPIP.GeneratedMSBuildEditorConfig.editorconfig
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/simpleTCPIP.AssemblyInfoInputs.cache
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/simpleTCPIP.AssemblyInfo.cs
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/simpleTCPIP.csproj.CoreCompileInputs.cache
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/simpleTCPIP.dll
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/refint/simpleTCPIP.dll
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/simpleTCPIP.pdb
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/simpleTCPIP.genruntimeconfig.cache
+/home/eagle/Desktop/AdvAlg24/simpleTCPIP/obj/Debug/net7.0/ref/simpleTCPIP.dll

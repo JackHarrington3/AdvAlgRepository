@@ -1,0 +1,15 @@
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/bin/Debug/net7.0/ArrayListTesting
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/bin/Debug/net7.0/ArrayListTesting.deps.json
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/bin/Debug/net7.0/ArrayListTesting.runtimeconfig.json
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/bin/Debug/net7.0/ArrayListTesting.dll
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/bin/Debug/net7.0/ArrayListTesting.pdb
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ArrayListTesting.csproj.AssemblyReference.cache
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ArrayListTesting.GeneratedMSBuildEditorConfig.editorconfig
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ArrayListTesting.AssemblyInfoInputs.cache
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ArrayListTesting.AssemblyInfo.cs
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ArrayListTesting.csproj.CoreCompileInputs.cache
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ArrayListTesting.dll
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/refint/ArrayListTesting.dll
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ArrayListTesting.pdb
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ArrayListTesting.genruntimeconfig.cache
+/home/eagle/Desktop/AdvAlg24/ArrayListTesting/obj/Debug/net7.0/ref/ArrayListTesting.dll

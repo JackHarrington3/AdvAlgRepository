@@ -1,0 +1,41 @@
+{% if gameStatus == "P" %}
+
+<form action="/hangman/game" method="POST">
+
+{% else %}
+<form action="/hangman/game" method="POST">
+
+{% endif %}
+
+{% csrf_token %}
+
+
+
+<br>
+
+
+{% autoescape off %}
+<p>{{ gallows }}</p>
+{% endautoescape %}
+
+{% if gameStatus == "P" %}
+{% autoescape off %}
+<p>{{ wordblank }}</p>
+{% endautoescape %}
+
+
+{% autoescape off %}
+<p>Already Guessed => {{ prevguesses }}</p>
+{% endautoescape %}
+
+ <label for="Let">Guess:</label><input size=2 type="text" id="letter" name="letter" autofocus>
+
+<br><br>
+
+<input type="submit" value="Submit">
+{% else %}
+<input type="submit" value="Play Again">
+{% endif %}
+
+
+</form>
